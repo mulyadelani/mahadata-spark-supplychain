@@ -25,7 +25,7 @@ Eksperimen ini melakukan **replikasi parsial** dari jurnal ilmiah bereputasi Sco
 
 ---
 
-## 📁 Struktur Berkas Repositori
+## 📁 Struktur Berkas Repository
 * `EksperimenMahadataPySpark.ipynb` : Notebook utama eksperimen PySpark.
 * `requirements.txt` : Daftar pustaka/dependensi Python yang dibutuhkan.
 * `hasil_supply_chain.csv` : Hasil evaluasi metrik RMSE, MAE, dan waktu komputasi.
